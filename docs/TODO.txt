@@ -1,0 +1,3 @@
+1. Change setup.py
+2. NAME
+3. ADD HEADERS + COOKIES
